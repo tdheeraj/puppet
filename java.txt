@@ -3,3 +3,7 @@ test the java
 install jenkins
 install docker
 install 
+
+install maven 
+
+work on the CI CD format 
