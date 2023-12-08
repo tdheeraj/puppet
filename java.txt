@@ -7,3 +7,5 @@ install
 install maven 
 
 work on the CI CD format 
+
+test test 
