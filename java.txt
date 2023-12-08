@@ -1,0 +1,5 @@
+test the java 
+
+install jenkins
+install docker
+install 
